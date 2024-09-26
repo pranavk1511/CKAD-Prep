@@ -9,3 +9,4 @@ This repository is designed to help you prepare for the **Certified Kubernetes A
 - L1 - Kubernetes Basics
 - L2 - Kubernetes Architecture
 - L3 - Ngnix Pod (pod.yaml)
+- L4 - Ngnix Deployment (deployment.yaml)
