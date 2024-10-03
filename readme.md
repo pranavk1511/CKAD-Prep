@@ -14,3 +14,4 @@ This repository is designed to help you prepare for the **Certified Kubernetes A
 - L6 - Intrerview Questions 
 - L7 - Online Demo ( kubeshark )
 - L8 - Ingress
+- L9 - ConfigMaps & Secrets 
